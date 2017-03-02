@@ -1,0 +1,78 @@
+body{
+    background: #acb0b7;
+
+}
+#container{
+    width: 50%;
+    margin: 28px auto; 
+    background-color: white;
+    height: 900px;
+    border-radius: 45px;
+    border: black solid 3px ;
+    padding: 0;
+    
+}
+
+header{
+    background: url("banner.jpg") no-repeat;
+    height: 430px;
+    color: white;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    overflow: hidden;
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: green;
+    font-size: 50px;
+    margin: 0;
+    
+}
+
+#income{
+    padding-top: 10%;
+}
+
+#breakdown{
+    
+    
+    width: 500px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    background: #e0e0e0;
+}
+
+
+#breakdown h2{
+    text-align: center;
+}
+
+.data-field{
+    background: #ccffcf;
+    width: 350px;
+    height: 60px;
+    margin-left: 20px;
+    
+}
+
+#income form{
+    padding-top: 15px;
+    padding-left: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    color: black;
+    font-weight:bold;
+    line-height: 2.0;
+    font-size: 18px;
+}
